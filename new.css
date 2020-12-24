@@ -1,0 +1,15 @@
+
+.button {
+    border-color: red;
+    background-color: green;
+    width: 70px;
+    height: 55px;
+    padding: 5px;
+}
+
+.search {
+    border-color: red;
+    width: 300px;
+    height: 40px;
+    padding: 5px;
+}
